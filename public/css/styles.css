@@ -1,0 +1,13 @@
+body {
+  background-image: url('http://a3.files.theultralinx.com/image/upload/MTI5MDU2ODM2MjQxMzc3Mjkw.gif');
+  background-size: cover;
+  color: white;
+}
+
+#result_text {
+  text-align: center;
+}
+
+.btn {
+  min-width: 300px;
+}
